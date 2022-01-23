@@ -106,7 +106,7 @@
 								<p>User</p>
 							</a>
 						</li> --}}
-                        <li class="nav-item" id="category-product">
+                        <li class="nav-item" id="category-product"> 
 							<a href="{{ route('category-product.index') }}">
 								<i class="fas fa-user"></i>
 								<p>Category Product</p>
